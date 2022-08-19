@@ -8,6 +8,8 @@ public class TestingAccessOutSide {
         System.out.println(obj.a);
 //        System.out.println(obj.b); b is default, which is only visible in the same package, so it cannot be accessed in a different package
 //        System.out.println(obj.c); c is private, so its only visible in the same class
+
+
     }
 
 }
