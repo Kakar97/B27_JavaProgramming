@@ -1,4 +1,6 @@
-package day38_encapsulation;
+package day38_encapsulation.Rectangle;
+
+import day38_encapsulation.Rectangle.Rectangle;
 
 public class UseRectangle {
     public static void main(String[] args) {

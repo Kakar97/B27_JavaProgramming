@@ -1,6 +1,6 @@
 package my_utils;
 
-import day38_encapsulation.AccessModifiers;
+import day38_encapsulation.accessmodifiers.AccessModifiers;
 
 public class TestingAccessOutSide {
     public static void main(String[] args) {

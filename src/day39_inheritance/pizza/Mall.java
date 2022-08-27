@@ -1,4 +1,4 @@
-package day39_inheritance;
+package day39_inheritance.pizza;
 
 public class Mall {
     public static void main(String[] args) {

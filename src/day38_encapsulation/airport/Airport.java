@@ -1,4 +1,4 @@
-package day38_encapsulation;
+package day38_encapsulation.airport;
 
 public class Airport {
     public static void main(String[] args) {

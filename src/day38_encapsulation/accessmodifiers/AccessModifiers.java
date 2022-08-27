@@ -1,4 +1,4 @@
-package day38_encapsulation;
+package day38_encapsulation.accessmodifiers;
 
 public class AccessModifiers {
 

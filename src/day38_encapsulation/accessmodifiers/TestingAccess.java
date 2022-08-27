@@ -1,4 +1,6 @@
-package day38_encapsulation;
+package day38_encapsulation.accessmodifiers;
+
+import day38_encapsulation.accessmodifiers.AccessModifiers;
 
 public class TestingAccess {
     public static void main(String[] args) {

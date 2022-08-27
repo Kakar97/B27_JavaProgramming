@@ -1,4 +1,4 @@
-package day38_encapsulation;
+package day38_encapsulation.driving;
 
 public class Driving {
     public static void main(String[] args) {
